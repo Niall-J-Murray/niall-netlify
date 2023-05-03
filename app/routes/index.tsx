@@ -65,7 +65,7 @@ export default function Index() {
           <div className="mt-6 flex flex-wrap justify-center gap-8">
           {[
               {
-                src: "https://cgfjpzrnyiqtomxrgprp.supabase.co/storage/v1/object/public/slipstream-images/images/background.jpg?t=2023-05-03T18%3A16%3A21.748Z"
+                src: "https://cgfjpzrnyiqtomxrgprp.supabase.co/storage/v1/object/public/slipstream-images/images/background.jpg?t=2023-05-03T18%3A16%3A21.748Z",
                 alt: "Slipstream",
                 href: "https://slipstreamf1-production.up.railway.app/home",
               },
